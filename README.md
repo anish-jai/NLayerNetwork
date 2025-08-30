@@ -32,7 +32,6 @@ The main configuration (`ImageProcessingConfig.txt`) defines a network with:
 ### Core Implementation
 - `NLayer.java` - Main neural network implementation
 - `NLayer.class` - Compiled Java bytecode
-- `NLayer.java.zip` - Backup of source code
 
 ### Image Preprocessing
 - `WOOHOO.py` - Python script for image preprocessing
